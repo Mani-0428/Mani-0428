@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Manikandan
 - 👀 I’m interested in software Development
-- 🌱 I’m Working in Intern
+- 🌱 I’m Working as a Software Developer
 - 📫 How to reach me https://github.com/Mani-0428
 - 😄 Pronouns: Bobby 
 
